@@ -15,3 +15,6 @@ where x is the whole hour and the float is either a half or three quarter hour.
 
 If you consider this tool to be useful, and you'd like to help, please submit a pull
 request with an iOS fix.   
+
+# Screenshot
+![https://github.com/K1WIZ/browser-clock-multi/blob/main/Screenshot_multi.png](https://github.com/K1WIZ/browser-clock-multi/blob/main/Screenshot_multi.png?raw=true)
